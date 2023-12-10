@@ -1,4 +1,4 @@
-notes github: 
+command git for this repo: 
 
 ## konfigurasi git : 
 git --version
@@ -151,7 +151,7 @@ index 24b7435..f721918 100644
 +ini perbaikan kedua
 
 
-
+This PC\Redmi 8\Internal shared storage\DCIM\Camera
 
 ## catatan pake vi editor di git bash: 
 ctrl + o --> buat masukin perintahnya 
