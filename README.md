@@ -20,3 +20,8 @@ and lastly, open http://127.0.0.1:5000/ on your browser
 ```bash
 gcloud app deploy
 ```
+
+after deploy, get url and open it
+```bash
+gcloud app browse
+```
